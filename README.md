@@ -1,5 +1,7 @@
 # MFC-Cat
 
+Канбан: https://app.zenhub.com/workspaces/mfc-cat-5de91b1d86b89c3abfd6bba6/board?filterLogic=any&repos=226124763
+
 Цель - сделать госуслуги незаметным и комфортным элементом жизни человека
 
 Развитие чат-бота
