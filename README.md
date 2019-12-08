@@ -1,6 +1,6 @@
-# MFC-Cat
+# MFC
 
-Канбан: https://app.zenhub.com/workspaces/mfc-cat-5de91b1d86b89c3abfd6bba6/board?repos=226124763
+Канбан: https://app.zenhub.com/workspaces/mfc-5de91b1d86b89c3abfd6bba6/board?repos=226124763
 
 Цель - сделать госуслуги незаметным и комфортным элементом жизни человека
 
